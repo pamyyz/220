@@ -1,11 +1,11 @@
-h1{
+h1 {
     font-size: 50px;
-color: aquamarine;
+    color: aquamarine;
     background-color: black;
-
+}
 
 h2 {
-font-size: 60px ;
-color:green;
-background-color: blueviolet;
+    font-size: 60px;
+    color: green;
+    background-color: blueviolet;
 }
