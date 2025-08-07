@@ -13,5 +13,7 @@ header{
 
 .nav lista {
     display: flex;
-list-style: none;
+    list-style: none;
+    gap: 80px;
+    text-transform: uppercase;
 }
