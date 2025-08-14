@@ -39,4 +39,7 @@ font-size: 25px;
 color: rgb(0, 0, 7);
 
 }
-.nav_item
+.nav_item a:hover {
+    background-color: aliceblue(191, 4, 190);
+    color: brown;
+}
