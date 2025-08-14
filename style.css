@@ -41,5 +41,6 @@ color: rgb(0, 0, 7);
 }
 .nav_item a:hover {
     background-color: aliceblue(191, 4, 190);
-    color: brown;
+    color: brown(155, 153, 153);
+    text-decoration: underline;
 }
