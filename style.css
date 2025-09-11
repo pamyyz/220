@@ -8,6 +8,9 @@
 #logo {
 font-size: 1.5rem;
 font-weight: 600;
+display: flex;
+align-items: center;
+gap: 8px;
 
 }
 
@@ -60,11 +63,14 @@ margin-top: 91px;
     width: 100%;
     padding: 20px ;
     display: flex;
+    justify-content: center;
     }
 
     .titulo {
 font-size: 4rem;
 color: crimson;
+text-align: center;
+width: 100%;
  }
  
  /* Menu hambúrguer para mobile */
