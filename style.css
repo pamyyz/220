@@ -66,3 +66,19 @@ font-size: 4rem;
 color: crimson;
  }
  
+ .menu-toggle {
+    display: none;
+    flex-direction: column
+    cursor: pointer;
+    background; none:
+    border: none;
+    padding: 5px;
+ }
+
+ .menu-toggle span {
+   width: 25px;
+   height: 3px;
+   background-color: mintcream;
+   margin: 3px 0;
+   transition: 0,3s;
+ }
