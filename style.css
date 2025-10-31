@@ -56,7 +56,7 @@ transition: 0.3s ease;
 
 .home {
 display: flex;
-min-height: calc(100vh - 91px);
+padding: 60px 0 20px;
 margin-top: 91px;
     }
     section{
