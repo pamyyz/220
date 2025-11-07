@@ -18,7 +18,7 @@ gap: 8px;
 header{
     width: 100%;
 padding: 20px 8%;
- background-color: darkred;
+ background-color: var(blueviolet);
 position: fixed;
 top: 0;
 left: 0;
@@ -76,30 +76,30 @@ width: 100%;
     color: aquamarine;
  }
  .secao {
-padding-right: 8%;
-padding-top: 2%;
-margin-top: 20px;
+flex-direction: column;
+align-items: center;
+gap: 40px;
  }
 
  .titulo section {
-    color: brown;
-    font-size: 1.5rem;
-    text-align: left;
-    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
  }
 
  .moldura_videos {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    gap: 32px;
     margin: 0%;
-    padding: 0%;
     list-style: none;
-
+    padding: 0%;
  }
 
  .video {
-    flex: 1 1 30%;
+    flex: 1 1 320%;
     margin: 10px;
     box-sizing: border-box;
     display: flex;
